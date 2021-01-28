@@ -6,8 +6,11 @@ class homePage extends StatefulWidget {
 }
 //mnbvcx
 class _homePageState extends State<homePage> {
-  bool test;
-  String name;
+ // bool test;
+ // String name;
+  
+  int newint=0;
+  
   @override
   Widget build(BuildContext context) {
     return Container(
